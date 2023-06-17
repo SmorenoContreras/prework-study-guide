@@ -1,0 +1,150 @@
+body {
+  background-color: rgb(246, 205, 229);
+  color: ghostwhite;
+  font-family: "Nunito", sans-serif;
+}
+/*h2 {
+  font-family: "Montserrat", sans-serif;
+}*/
+
+h1 {
+  text-align: center;
+  font-family: "Kaushan Script", cursive;
+}
+img {
+  width: 1550px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+}
+.textbox1 {
+  border: 1px solid sandybrown; /* Sets a 1 pixel solid black border */
+  padding: 10px; /* Adds some padding inside the box */
+  width: 1000px; /* Sets the width of the box */
+  border-radius: 20px;
+  box-shadow: 2px 2px 2px 2px deeppink;
+  margin-left: 250px;
+  color: ghostwhite;
+  padding-bottom: 10px;
+  margin-bottom: 50px;
+}
+
+.textbox2 {
+  border: 1px solid purple; /* Sets a 1 pixel solid black border */
+  padding: 10px; /* Adds some padding inside the box */
+  width: 1000px; /* Sets the width of the box */
+  border-radius: 20px;
+  box-shadow: 2px 2px 2px 2px deeppink;
+  margin-left: 250px;
+  color: black;
+  padding-bottom: 10px;
+  margin-bottom: 50px;
+}
+
+.textbox3 {
+  border: 1px solid lawngreen; /* Sets a 1 pixel solid black border */
+  padding: 10px; /* Adds some padding inside the box */
+  width: 1000px; /* Sets the width of the box */
+  border-radius: 20px;
+  box-shadow: 2px 2px 2px 2px deeppink;
+  margin-left: 250px;
+  color: black;
+  padding-bottom: 10px;
+  margin-bottom: 50px;
+}
+
+.textbox4 {
+  border: 1px solid whitesmoke; /* Sets a 1 pixel solid black border */
+  padding: 10px; /* Adds some padding inside the box */
+  width: 1000px; /* Sets the width of the box */
+  border-radius: 20px;
+  box-shadow: 2px 2px 2px 2px deeppink;
+  margin-left: 250px;
+  color: ghostwhite;
+  padding-bottom: 10px;
+  margin-bottom: 50px;
+}
+
+.bullet-list {
+  list-style-type: circle;
+}
+
+.html h2 {
+  text-align: center;
+  font-family: "Itim", cursive;
+}
+
+.css h2 {
+  text-align: center;
+  color: black;
+  font-family: "Itim", cursive;
+}
+
+.git h2 {
+  font-family: "Itim", cursive;
+  text-align: center;
+}
+
+.js h2 {
+  font-family: "Itim", cursive;
+  text-align: center;
+}
+table {
+  padding-left: 10px;
+  font-family: "Playfair Display", serif;
+}
+a {
+  text-decoration: none;
+  font-size: 40px;
+  color: whitesmoke;
+}
+.line {
+  border: 1px solid whitesmoke;
+}
+td {
+  padding-left: 120px;
+  padding-right: 130px;
+}
+.foot1:hover {
+  border: 1px solid lawngreen;
+  box-sizing: border-box;
+  border-radius: 0px;
+  box-shadow: 2px 2px 2px 2px deeppink;
+  color: ghostwhite;
+}
+
+.image-container {
+  position: relative;
+}
+
+.image-text {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin-left: 360px;
+  margin-top: 40px;
+  font-size: 40px;
+  text-shadow: 5px 5px 5px black;
+  color: white;
+  padding: 20px;
+}
+
+.container {
+  background-color: rgb(250, 246, 227);
+}
+
+.container_1 {
+  background-color: rgb(255, 204, 128);
+}
+
+table {
+  background-color: black;
+}
